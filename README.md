@@ -1,4 +1,3 @@
-# PM-app
-a password manager app  on python and mariadb
-with refrence from-
-https://github.com/teja156/python-password-manager
+#password generator
+a react app which generates a storng password with defined number of characters and mixes uppercase, lowercase alphabets , special chars, digits to produce a strong password.
+
